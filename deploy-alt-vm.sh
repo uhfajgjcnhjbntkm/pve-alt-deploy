@@ -44,7 +44,7 @@ load_config() {
         VM_DISK_SIZE="32G"
         VM_BRIDGE="vmbr0"
         VM_STORAGE="local-lvm"
-        ALT_IMAGE_URL="https://disk.yandex.ru/d/your_alt_image_path/alt-workstation.qcow2"
+        ALT_IMAGE_URL="https://mega.nz/file/H1YXCCJQ#1gK8XMUOVYkfWKj2Rbloocyve7cq1d2_ahXIao7IiK8"
         ALT_IMAGE_CHECKSUM="https://mega.nz/file/XwAWELqT#kv2_OysAz3NcfXmuBXhqHes0UmZzABkRYCCC2nqtVMg"
     fi
 }
