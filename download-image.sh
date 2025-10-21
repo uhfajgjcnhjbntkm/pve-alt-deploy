@@ -4,7 +4,7 @@
 
 set -e
 
-IMAGE_URL="https://disk.yandex.ru/d/your_public_link/alt-workstation.qcow2"
+IMAGE_URL="https://mega.nz/file/H1YXCCJQ#1gK8XMUOVYkfWKj2Rbloocyve7cq1d2_ahXIao7IiK8"
 OUTPUT_DIR="/var/cache/pve-alt-deploy"
 IMAGE_NAME="alt-workstation.qcow2"
 
