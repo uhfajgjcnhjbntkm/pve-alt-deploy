@@ -45,7 +45,7 @@ load_config() {
         VM_BRIDGE="vmbr0"
         VM_STORAGE="local-lvm"
         ALT_IMAGE_URL="https://disk.yandex.ru/d/your_alt_image_path/alt-workstation.qcow2"
-        ALT_IMAGE_CHECKSUM="https://disk.yandex.ru/d/your_alt_image_path/alt-workstation.sha256"
+        ALT_IMAGE_CHECKSUM="https://mega.nz/file/XwAWELqT#kv2_OysAz3NcfXmuBXhqHes0UmZzABkRYCCC2nqtVMg"
     fi
 }
 
