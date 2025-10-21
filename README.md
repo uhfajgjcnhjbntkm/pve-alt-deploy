@@ -16,3 +16,5 @@ Automated deployment of Alt Workstation VMs in Proxmox VE using images from Yand
 ```bash
 git clone https://github.com/yourusername/pve-alt-deploy.git
 cd pve-alt-deploy
+./setup-pve-node.sh
+./deploy-alt-vm.sh
