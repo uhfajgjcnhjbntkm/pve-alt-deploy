@@ -7,8 +7,8 @@ set -e
 echo "Setting up Proxmox node for Alt Workstation deployment..."
 
 # Install required packages
-apt update
-apt install -y wget curl jq sudo
+apt-get update
+apt-get install -y wget curl jq sudo
 
 # Create cache directory
 mkdir -p /var/cache/pve-alt-deploy
